@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.mypy_cache/
+
+# Configurações locais
+.env
+.vscode/
+
+# GIFs temporários
+demo.gif
