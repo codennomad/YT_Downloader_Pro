@@ -1,6 +1,6 @@
 # YT - Download Pro
 
-![Funcionamento do Menu](https://github.com/seu-usuario/seu-repositorio/raw/main/demo.gif)
+![Download_Pro](https://github.com/user-attachments/assets/64eadb99-aa2d-4b96-b833-615d0f33bf93)
 
 Um aplicativo simples de interface gráfica (GUI) desenvolvido em Python para baixar vídeos e áudios do YouTube. Ele utiliza o Tkinter para a interface gráfica e a biblioteca yt-dlp para lidar com o download.
 
@@ -73,7 +73,7 @@ pip install tkinter yt-dlp
 
 Veja o menu radial em ação:
 
-![Demo](https://github.com/seu-usuario/seu-repositorio/raw/main/demo.gif)
+![Download_Pro](https://github.com/user-attachments/assets/64eadb99-aa2d-4b96-b833-615d0f33bf93)
 
 ---
 
